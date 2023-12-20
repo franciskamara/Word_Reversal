@@ -1,0 +1,15 @@
+/Users/user/Documents/GitHub/Personal-Account/Word_Reversal/Word_Reversal/bin/Debug/net7.0/Word_Reversal
+/Users/user/Documents/GitHub/Personal-Account/Word_Reversal/Word_Reversal/bin/Debug/net7.0/Word_Reversal.deps.json
+/Users/user/Documents/GitHub/Personal-Account/Word_Reversal/Word_Reversal/bin/Debug/net7.0/Word_Reversal.runtimeconfig.json
+/Users/user/Documents/GitHub/Personal-Account/Word_Reversal/Word_Reversal/bin/Debug/net7.0/Word_Reversal.dll
+/Users/user/Documents/GitHub/Personal-Account/Word_Reversal/Word_Reversal/bin/Debug/net7.0/Word_Reversal.pdb
+/Users/user/Documents/GitHub/Personal-Account/Word_Reversal/Word_Reversal/obj/Debug/net7.0/Word_Reversal.csproj.AssemblyReference.cache
+/Users/user/Documents/GitHub/Personal-Account/Word_Reversal/Word_Reversal/obj/Debug/net7.0/Word_Reversal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/GitHub/Personal-Account/Word_Reversal/Word_Reversal/obj/Debug/net7.0/Word_Reversal.AssemblyInfoInputs.cache
+/Users/user/Documents/GitHub/Personal-Account/Word_Reversal/Word_Reversal/obj/Debug/net7.0/Word_Reversal.AssemblyInfo.cs
+/Users/user/Documents/GitHub/Personal-Account/Word_Reversal/Word_Reversal/obj/Debug/net7.0/Word_Reversal.csproj.CoreCompileInputs.cache
+/Users/user/Documents/GitHub/Personal-Account/Word_Reversal/Word_Reversal/obj/Debug/net7.0/Word_Reversal.dll
+/Users/user/Documents/GitHub/Personal-Account/Word_Reversal/Word_Reversal/obj/Debug/net7.0/refint/Word_Reversal.dll
+/Users/user/Documents/GitHub/Personal-Account/Word_Reversal/Word_Reversal/obj/Debug/net7.0/Word_Reversal.pdb
+/Users/user/Documents/GitHub/Personal-Account/Word_Reversal/Word_Reversal/obj/Debug/net7.0/Word_Reversal.genruntimeconfig.cache
+/Users/user/Documents/GitHub/Personal-Account/Word_Reversal/Word_Reversal/obj/Debug/net7.0/ref/Word_Reversal.dll
